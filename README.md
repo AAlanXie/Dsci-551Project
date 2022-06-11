@@ -21,6 +21,8 @@ Finally we deployed our whole project on an AWS EC2 instance.
 
 ![avatar](/crimeFlask/static/images/dataflow.png)
 
+<hr>
+
 ### Author
 - Boyu Shen
 - Yutong Ren

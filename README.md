@@ -20,3 +20,8 @@ and visualize the crime and weather data in our web page based on BootStrap and 
 Finally we deployed our whole project on an AWS EC2 instance.
 
 ![avatar](/crimeFlask/static/images/dataflow.png)
+
+### Author
+- Boyu Shen
+- Yutong Ren
+- Tianqi Xie
